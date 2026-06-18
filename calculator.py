@@ -1,0 +1,10 @@
+while True: 
+    number1=float(input("Enter the 1st number: "))
+    operator=(input("Enter the operator: "))
+    number2=float(input("Enter the 2nd number: "))
+    print()
+    print(number1, operator, number2, "=")
+    if operator == "+": print(number1 + number2),print()
+    elif operator == "-": print(number1 - number2),print()
+    elif operator == "*": print(number1 * number2),print()
+    elif operator == "/": print(number1/number2),print()
