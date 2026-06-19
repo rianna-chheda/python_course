@@ -1,0 +1,20 @@
+{
+    "course": "Python:",
+    "students": [
+        {
+            "name": "Rianna",
+            "age": 16,
+            "city": "Mumbai"
+        },
+        {
+            "name": "Priya",
+            "age": 15,
+            "city": "Mumbai"
+        },
+        {
+            "name": "Anya",
+            "age": 17,
+            "city": "Delhi"
+        }
+    ]
+}
