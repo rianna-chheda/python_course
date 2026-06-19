@@ -1,0 +1,10 @@
+Hi, my name is Rianna.
+Age: 16
+Grade: 11
+City: Mumbai 
+Date of Birth: 12/12/2009
+
+I like coding!
+I like AI!
+My favourite TV show is One Tree Hill!
+I love pizza!
