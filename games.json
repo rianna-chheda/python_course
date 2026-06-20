@@ -1,0 +1,19 @@
+{
+    "favourite_games": [
+        {
+            "name": "UNO",
+            "genre": "card game",
+            "goal": "have 1 card left"
+        },
+        {
+            "name": "Monopoly",
+            "genre": "board game",
+            "goal": "be the last player standing"
+        },
+        {
+            "name": "Battle Ship",
+            "genre": "board game",
+            "goal": "kill other ships"
+        }
+    ]
+}
