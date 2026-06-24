@@ -8,4 +8,3 @@ while True:
     elif operator == "-": print(number1 - number2),print()
     elif operator == "*": print(number1 * number2),print()
     elif operator == "/": print(number1/number2),print()
-st.image("https://unsplash.com/photos/a-group-of-women-running-on-a-road-next-to-a-body-of-water-AdVrlzyHcxQ")

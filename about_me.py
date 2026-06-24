@@ -1,0 +1,11 @@
+import streamlit as st
+st.title("Rianna!")
+st.header("About")
+st.write("Hi! My name is Rianna Chheda. I am 16 years old and I live in Mumbai, India. My birthday is 12th December, 2009. I am currently in grade 11 and enjoy subjects like Biology, Psychology, CS and more. I love to eat Pizza, Pasta and lots of yummy desserts. My favourite movie is High School Musical and my favourite TV show is One Tree Hill. I love spending time with my friends and family and doing different activities like playing games, watching movies, bowling, playing at an arcade and more. I also love listening to and play music. Some of my favourite genres include R&B, pop, hip-hop and rap. I have been learning music since I was 7 years old, I enjoy playing the piano, singing and more!")
+st.header("Hobbies")
+st.write("I love music, watching TV, travelling, eating food and hanging out with my friends/family. In my free time I like to play board/card games like UNO, monopoly and battleship. I like to play the piano or play badminton. I love to bake different foods and enjoy them after! And I love visting new places and shopping!")
+st.header("Goals")
+st.write("I want to do something related to science in the future! I also want to travel a lot and different many different countries.")
+st.success("I can play the piano!")
+st.info("I can speak Spanish!")
+st.caption("Thank You!")
